@@ -11,5 +11,5 @@ addons:
  sonarqube:
 organization: "nguyenthingoclen"
 token:
-secure: cbd02f57691ed34e661b2aab16aa744d67cc8c54
+secure: 0db2212a30425d0ef953e9bc2c9a6d424715a88f
 
